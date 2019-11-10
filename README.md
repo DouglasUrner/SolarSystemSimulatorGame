@@ -1,5 +1,7 @@
 # Solar System Simulator Game
 
+[![Frame grab of gameplay video](https://img.youtube.com/vi/1qL-AhrCbQ8/0.jpg)](https://www.youtube.com/watch?v=1qL-AhrCbQ8)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1qL-AhrCbQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A simulation of our solar system and a game at the same time made primarily for educational purposes (it gives a good sense of the time and space scale of out Solar System). The planets, the moon, and the space craft follow realistic (elliptical) orbits in phase space and the relative sizes of planets and moon are correct.
