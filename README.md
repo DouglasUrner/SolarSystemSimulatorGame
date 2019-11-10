@@ -8,7 +8,7 @@ For the orbital elements of the planets I used values from the [NASA Planetary F
 
 The trajectories of the space craft are calculated at run time using a 2nd order [Leapfrog][3] integrator with initial conditions based on user input and Earth's position and velocity at the time of launch. The goal of the game is to launch space craft and complete the missions.
 
-Check out the video for gameplay footage. Note that in order to play the game you need a mouse with a wheel.
+Click on the image for a video of the gameplay. Note that in order to play the game you need a mouse with a wheel.
 
 Programmed in C# and powered by Unity. 
 
